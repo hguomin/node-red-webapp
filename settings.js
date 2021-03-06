@@ -1,7 +1,7 @@
 module.exports = {
     httpAdminRoot:"/",
     httpNodeRoot: "/",
-    ui: { path: "ui" },
+    ui: { path: "dashboard" },
     
     userDir:"/home/nodered/.node-red/",
     // the tcp port that the Node-RED web server is listening on
