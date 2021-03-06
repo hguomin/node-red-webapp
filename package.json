@@ -1,0 +1,26 @@
+{
+  "name": "node-red-webapp",
+  "version": "0.0.1",
+  "description": "The node-red web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hguomin/node-red-webapp.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Guomin Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hguomin/node-red-webapp/issues"
+  },
+  "homepage": "https://github.com/hguomin/node-red-webapp#readme",
+  "dependencies": {
+    "node-red": "^1.2.9"
+  }
+}
